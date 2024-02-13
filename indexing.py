@@ -10,7 +10,6 @@
 
 #Importing some Python libraries
 import csv
-from collections import Counter
 import math
 documents = []
 
